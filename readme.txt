@@ -61,6 +61,7 @@ We don't collect your data or snoop on you. Feel free to see the codes.
 * Auto register custom Whatsapp Number field in Vendor's Store Setting
 * Allow multiple Whatsapp button on checkout page for each vendors
 * Added how-to images
+* Added woocommerce, wcvm & wcfm plugin check
 
 = 1.0.0 =
 * First release
